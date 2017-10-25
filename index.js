@@ -14,4 +14,3 @@ class JSONReader {
 
 const myReader = new JSONReader();
 myReader.readJSON();
-console.log(aa);
