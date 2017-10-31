@@ -4,3 +4,5 @@
 
 https://github.com/tc39/proposal-class-fields
 
+Настройки .babelrc используются babel-loader-ом
+
